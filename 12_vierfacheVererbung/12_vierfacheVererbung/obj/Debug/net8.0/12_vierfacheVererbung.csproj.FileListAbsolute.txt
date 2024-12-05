@@ -1,0 +1,14 @@
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.AssemblyInfoInputs.cache
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.AssemblyInfo.cs
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.csproj.CoreCompileInputs.cache
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/bin/Debug/net8.0/12_vierfacheVererbung
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/bin/Debug/net8.0/12_vierfacheVererbung.deps.json
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/bin/Debug/net8.0/12_vierfacheVererbung.runtimeconfig.json
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/bin/Debug/net8.0/12_vierfacheVererbung.dll
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/bin/Debug/net8.0/12_vierfacheVererbung.pdb
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.dll
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/refint/12_vierfacheVererbung.dll
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.pdb
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/12_vierfacheVererbung.genruntimeconfig.cache
+/Users/josiaschweizer/Library/Mobile Documents/com~apple~CloudDocs/02_Schule/01_GBS/M-320/12_vierfacheVererbung/12_vierfacheVererbung/obj/Debug/net8.0/ref/12_vierfacheVererbung.dll
