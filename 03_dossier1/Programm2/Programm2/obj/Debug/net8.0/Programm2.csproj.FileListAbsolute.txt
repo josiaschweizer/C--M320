@@ -1,0 +1,14 @@
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\bin\Debug\net8.0\Programm2.exe
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\bin\Debug\net8.0\Programm2.deps.json
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\bin\Debug\net8.0\Programm2.runtimeconfig.json
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\bin\Debug\net8.0\Programm2.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\bin\Debug\net8.0\Programm2.pdb
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.AssemblyInfoInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.AssemblyInfo.cs
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.csproj.CoreCompileInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\refint\Programm2.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.pdb
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\Programm2.genruntimeconfig.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\03_dossier1\Programm2\Programm2\obj\Debug\net8.0\ref\Programm2.dll

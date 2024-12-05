@@ -1,0 +1,14 @@
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\bin\Debug\net8.0\microsoft-learn.exe
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\bin\Debug\net8.0\microsoft-learn.deps.json
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\bin\Debug\net8.0\microsoft-learn.runtimeconfig.json
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\bin\Debug\net8.0\microsoft-learn.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\bin\Debug\net8.0\microsoft-learn.pdb
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.AssemblyInfoInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.AssemblyInfo.cs
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.csproj.CoreCompileInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\refint\microsoft-learn.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.pdb
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\microsoft-learn.genruntimeconfig.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\01_microsoft-learn\microsoft-learn\microsoft-learn\obj\Debug\net8.0\ref\microsoft-learn.dll

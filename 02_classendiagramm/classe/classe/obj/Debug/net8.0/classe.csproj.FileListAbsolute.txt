@@ -1,0 +1,4 @@
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\02_classendiagramm\classe\classe\obj\Debug\net8.0\classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\02_classendiagramm\classe\classe\obj\Debug\net8.0\classe.AssemblyInfoInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\02_classendiagramm\classe\classe\obj\Debug\net8.0\classe.AssemblyInfo.cs
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-340\02_classendiagramm\classe\classe\obj\Debug\net8.0\classe.csproj.CoreCompileInputs.cache
