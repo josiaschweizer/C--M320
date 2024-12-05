@@ -1,0 +1,14 @@
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\bin\Debug\net8.0\09_Fussballmannschaft.exe
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\bin\Debug\net8.0\09_Fussballmannschaft.deps.json
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\bin\Debug\net8.0\09_Fussballmannschaft.runtimeconfig.json
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\bin\Debug\net8.0\09_Fussballmannschaft.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\bin\Debug\net8.0\09_Fussballmannschaft.pdb
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.AssemblyInfoInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.AssemblyInfo.cs
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.csproj.CoreCompileInputs.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\refint\09_Fussballmannschaft.dll
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.pdb
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\09_Fussballmannschaft.genruntimeconfig.cache
+C:\Users\josia.schweizer\iCloudDrive\02_Schule\01_GBS\M-320\09_Fussballmannschaft\09_Fussballmannschaft\obj\Debug\net8.0\ref\09_Fussballmannschaft.dll
